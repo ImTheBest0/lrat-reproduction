@@ -1,0 +1,803 @@
+{
+  "selected_questions": [
+    [
+      "InfoSeek-Eval_0",
+      "What is a species of moth that was first described by a French lepidopterist who allied himself with Pierre André Latreille, is widespread in tropical Africa and Madagascar, and whose caterpillars feed on Crotalaria plants? Additionally, this moth has orange forewings with black markings and white around them, and orange hindwings with black spots on the edges."
+    ],
+    [
+      "InfoSeek-Eval_1",
+      "Who was a Romanian statesman whose brother was a prolific writer and politician that collaborated with Nicolae Bălcescu, and who served as Prime Minister of Romania five times?"
+    ],
+    [
+      "InfoSeek-Eval_2",
+      "What is a controversial topic in psychology whose arguments about environmental factors were supported by observations of a specific phenomenon related to IQ changes over time that was observed in studies using Raven's Progressive Matrices, and whose first empirical evidence came from tests of United States Army recruits in World War I?"
+    ],
+    [
+      "InfoSeek-Eval_3",
+      "What is a television station that is an owned-and-operated station of a network co-founded by Paul Crouch, was founded on August 16, 1982, and formerly operated from studios located within a Christian theme park that closed in 2020?"
+    ],
+    [
+      "InfoSeek-Eval_4",
+      "What is a species of bird that was described by Georges-Louis Leclerc, Comte de Buffon and illustrated by François-Nicolas Martinet in Buffon's work, is related to another lapwing species that shares some plumage characteristics, can live up to 20 years, and is covered by the AEWA agreement?"
+    ],
+    [
+      "InfoSeek-Eval_5",
+      "Who is a Japanese theatre scholar who had a three-decade career at a university whose medical center established a cancer center with help from Kansas masons, and who was awarded the Order of the Sacred Treasure in 2006?"
+    ],
+    [
+      "InfoSeek-Eval_6",
+      "What is the baseball team for which the first MLB player to enter the Meikyukai holds the most franchise records, and which has another player who holds the second most franchise records? Additionally, this team has an all-time winning percentage of .473 through July 16, 2022, and has two players who hold Major League Baseball records."
+    ],
+    [
+      "InfoSeek-Eval_7",
+      "What is a song that features vocals by an artist who released one of the best-selling singles of all time, and was itself released on 6 March 2000 as the second single from Chicane's second studio album?"
+    ],
+    [
+      "InfoSeek-Eval_8",
+      "Who is a sport official who competed in the 1912 Summer Olympics and finished 22nd in the javelin throw? This person received the Military Order of Max Joseph in 1921."
+    ],
+    [
+      "InfoSeek-Eval_9",
+      "What is a species of snout moth in the genus Epischnia that was described by a zoologist who worked with Ernst Hartert for 38 years on ornithological studies? Additionally, this moth is found in North Africa, including Algeria, and was described in 1915."
+    ],
+    [
+      "InfoSeek-Eval_10",
+      "What was the payroll system whose development was overseen by someone who co-created JUnit with Erich Gamma, that went live in 1997, initially paying around ten thousand people?"
+    ],
+    [
+      "InfoSeek-Eval_11",
+      "What is a species of moth that belongs to the family Depressariidae, has a wingspan of 20-22 mm, is found in French Guiana, and has forewings with a fuscous basal dot above the middle and 3-4 fuscous marks near the base forming an interrupted oblique line?"
+    ],
+    [
+      "InfoSeek-Eval_12",
+      "What is the name of the last film directed by Raoul Walsh, whose brother was a silent cinema actor whose first wife was an actress, that stars Troy Donahue, Suzanne Pleshette and Diane McBain, and is based on a 1960 novel by Paul Horgan?"
+    ],
+    [
+      "InfoSeek-Eval_13",
+      "What is a species of moth that feeds on plants from a family which includes a genus producing chili peppers and bell peppers? This species has a wingspan of 20-34 mm, with females being somewhat larger, and has been accidentally introduced to some European countries through imports of its host plants."
+    ],
+    [
+      "InfoSeek-Eval_14",
+      "What is an international trade practice that was officially approved by the Chinese Ministry of Commerce in 2019 and serves as a way to deepen implementations of a major Chinese development strategy that is a centerpiece of Xi Jinping's foreign policy? The first exports of this practice consisted of 300 used cars to four specific countries, and were made through Nansha Port and the China-Europe Railway Express."
+    ],
+    [
+      "InfoSeek-Eval_15",
+      "What is a British chocolate company that was acquired by a company founded by Franklin Clarence Mars (whose son created the Milky Way bar), operates a chocolate tasting club with about 100,000 members, and is the only UK chocolate company to own its own cocoa farm?"
+    ],
+    [
+      "InfoSeek-Eval_16",
+      "What is the name of a Greek football club where a player began his career, who was scouted by AEK Athens alongside another footballer? The club's colors are green and white and its name means 'green birds'."
+    ],
+    [
+      "InfoSeek-Eval_17",
+      "Who is a theoretical chemist who serves as Director of an institute where the Department of Solid State Quantum Electronics is spearheaded by a Nobel Prize-winning physicist? This person was elected Fellow of the Royal Society in 2015, was born in Tehran, and held an academic post at Queen's University Belfast before working in Cambridge and Stuttgart."
+    ],
+    [
+      "InfoSeek-Eval_18",
+      "Who is a justice with the Federal Court of Canada who was the first director of the Policy Centre for Victim Issues in the Department of Justice from 1999 to 2007 and who graduated with an LLB from a university that was first established by Joseph-Bruno Guigues as the College of Bytown in 1848?"
+    ],
+    [
+      "InfoSeek-Eval_19",
+      "What is the performance design element that was significantly influenced by someone who first adapted 'Madame Butterfly' for the stage, whose construction is frequently one of the most time-consuming tasks when preparing for a show, which can range from a single chair to an elaborately re-created street, and whose modern form requires the specialized skills of hundreds of artists and craftspeople for a single production?"
+    ]
+  ],
+  "inputs": {
+    "qwen__run_InfoSeek-Eval_0.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_0",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_0.json",
+      "sha256": "b47e5f3760934005cc72bb6393f28ea3c35945e5b724ff757215c06a632c91ff",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_1.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_1",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_1.json",
+      "sha256": "5c3b6e4536b79c8dca08670917af22b09b78cb3cb6e39bf49a9ba651d4dd0a0d",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_2.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_2",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_2.json",
+      "sha256": "d653765a3e3f9fcdb2ba7a248bc61f4136b25216feb9f06c871dff54b1ee82e3",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_3.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_3",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_3.json",
+      "sha256": "51c2412c8679c84b500e32309fd5895a429cb3f7062731e4015eb98a90fc273b",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_4.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_4",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_4.json",
+      "sha256": "111ab4fd2c757f063efa4bfe451a4b8c01b897e53a8dd982fd13a482b75c1b4c",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_5.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_5",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_5.json",
+      "sha256": "83f0bebe9941c091e2009150effc0e7a27e41449feba134d828c203a46a909e1",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_6.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_6",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_6.json",
+      "sha256": "0e538dea3dbdbffc970c0e8c7cd55a231011c17479c48bb5a0fa1f34823c8fbe",
+      "steps": 22
+    },
+    "qwen__run_InfoSeek-Eval_7.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_7",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_7.json",
+      "sha256": "ad53ccc82a01f8e3e3b6d34d80e0d409b2070f574fa68404c7ef0d1e0330dcfb",
+      "steps": 11
+    },
+    "qwen__run_InfoSeek-Eval_8.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_8",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_8.json",
+      "sha256": "753274700d525fd24f019c8f1600619c450b67bc1bb59381f02dd294fd9ccb24",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_9.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_9",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_9.json",
+      "sha256": "c1d737569af2a24fe6da39b050a895b520a17309881780333403fde0df3b6ab1",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_10.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_10",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_10.json",
+      "sha256": "503547a5984b05385a15a4eabea0698062492adc6fd2f0e99df3ee772fb4134b",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_11.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_11",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_11.json",
+      "sha256": "972c32a8cb63d272a7fbae8b04b305230da9468fba59c7efd237d26bd85e975d",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_12.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_12",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_12.json",
+      "sha256": "f442b1200f51bda5b45c4ee7d210fa749d68f3a7d187578b473ddcada88cba37",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_13.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_13",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_13.json",
+      "sha256": "767c4256858f54c5d2660f3ada7fd2e32dd21c5a9984ed78b5e0e956d269a55c",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_14.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_14",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_14.json",
+      "sha256": "39f95c089de33cd6111d30784c8b841b3bd7e4b2b71b23a4dbd6c2e999aef971",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_15.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_15",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_15.json",
+      "sha256": "185b88f20dcc4f9468bff2d80dfb4990a9e646254c1a34daeffe1668d7b1bbe8",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_16.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_16",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_16.json",
+      "sha256": "831e78261a4bb645f00213ba82aa79cc4325ad92d2bde932cd16d76200d5430f",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_17.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_17",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_17.json",
+      "sha256": "68b3ac6f91baa0f9bec8c6c3cf7d63e8073b23aad88c8573b12cf6f8a5b9768b",
+      "steps": 50
+    },
+    "qwen__run_InfoSeek-Eval_18.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_18",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_18.json",
+      "sha256": "5742eb35b45069d80ec5631db13d7add12ba5d1bd8cbe3945e2dec1132e89a41",
+      "steps": 4
+    },
+    "qwen__run_InfoSeek-Eval_19.json": {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_19",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/qwen/run_InfoSeek-Eval_19.json",
+      "sha256": "30fe4129ff672ba40894036dda54474b97e95795dc66c52346a25442b1350016",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_0.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_0",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_0.json",
+      "sha256": "7400e7220e3d04f7b04b2dae76a518df6820079e33e4559d8f5493095dacd066",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_1.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_1",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_1.json",
+      "sha256": "5124908587eb9c058c7a4be1c3d1a6959c0eac1011fc338474c04dd710543736",
+      "steps": 45
+    },
+    "lrat__run_InfoSeek-Eval_2.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_2",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_2.json",
+      "sha256": "e9df2b83637eed1c5265eb24c46f7aec904df92cd68e584d1c82239c934379e0",
+      "steps": 38
+    },
+    "lrat__run_InfoSeek-Eval_3.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_3",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_3.json",
+      "sha256": "461f9fa092c10385056239579b46a8e375c0dc956ed7fa23e5272b6b3cdcd5c9",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_4.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_4",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_4.json",
+      "sha256": "82f1c6e3b10c5ee896f3a32032f967d12b1033c1ecb50db21dc4b29324f92f6a",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_5.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_5",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_5.json",
+      "sha256": "2f8ac9cf1df3af0d878e7e10a9fb110251371376fdbf1678093860fa18a5d434",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_6.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_6",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_6.json",
+      "sha256": "46aa9f0e70ac4ecd29da03a713cd204e591337afda729d3c29f8be6e8b4b3901",
+      "steps": 7
+    },
+    "lrat__run_InfoSeek-Eval_7.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_7",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_7.json",
+      "sha256": "6675d674cbc6c85f4a14800640c59e08d711f901b63d61781ebdf742062be905",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_8.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_8",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_8.json",
+      "sha256": "a067db6e992bdab3af4367f3ebeab9630ea78909cb3e5e481c871b6257d4c588",
+      "steps": 45
+    },
+    "lrat__run_InfoSeek-Eval_9.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_9",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_9.json",
+      "sha256": "f39ed3e68bf8245e24b08f43f8a5bcaeee2577818a2c0f0adaa923a02a3ce53f",
+      "steps": 36
+    },
+    "lrat__run_InfoSeek-Eval_10.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_10",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_10.json",
+      "sha256": "a2b2ab74a07e98e2af039f70de84aeb76244df8413342a43255ff128b1a1a2e2",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_11.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_11",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_11.json",
+      "sha256": "afb767efc64106890975738d76ba4650e642c9b98d252e9961aa4fca74694c3d",
+      "steps": 8
+    },
+    "lrat__run_InfoSeek-Eval_12.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_12",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_12.json",
+      "sha256": "219767d05a3698cffe5880726eca5057fda1e6b4988206c0db1a5d01a217fad1",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_13.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_13",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_13.json",
+      "sha256": "cfa453bdb520827ae282f98c69a7081a19e86c5fa5cf47743035027f39b2b96a",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_14.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_14",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_14.json",
+      "sha256": "4c3c54f50b986e98611ef3cea7e10c36f4e9e4ccea7660edf2c51516c3c8fcca",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_15.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_15",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_15.json",
+      "sha256": "baa39250f21360d36fad398da8afadfbd655d1befd0c526c3ff9851e3ba9288f",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_16.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_16",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_16.json",
+      "sha256": "a1be4cc3ac6ba5959e4db6d872c30fc9792b54fe3219466fb73810d9f469dd25",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_17.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_17",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_17.json",
+      "sha256": "c145a3be3f596b3a2698c570c924578d85ec4536ac16098a41ecbdbee52f0e70",
+      "steps": 50
+    },
+    "lrat__run_InfoSeek-Eval_18.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_18",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_18.json",
+      "sha256": "f1fea6e10751f02d39b63f0c1e8d069b1ddfae2f00169a9860ed9edacd0380ed",
+      "steps": 2
+    },
+    "lrat__run_InfoSeek-Eval_19.json": {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_19",
+      "source": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/runs/infoseek-20-baseline-v1/lrat/run_InfoSeek-Eval_19.json",
+      "sha256": "e0419850baab8c692277d446c397ea67eb6bf2acaaf672c262d940e71e788d67",
+      "steps": 13
+    }
+  },
+  "protocols": {
+    "qwen": {
+      "identity_sha256": "a787972dc3b78a2b6c6be9146fbba81861d9e5103d92c1b950f26f1af53d9d5c",
+      "identity": {
+        "protocol": {
+          "temperature": 0.85,
+          "top_p": 0.95,
+          "presence_penalty": 1.1,
+          "seed": 2025,
+          "k": 10,
+          "snippet_max_tokens": 64,
+          "document_max_tokens": 512,
+          "max_main_loop_calls": 50,
+          "query_max_length": 8192,
+          "pooling": "eos",
+          "normalize": true,
+          "query_precision": "float16",
+          "query_attention": "flash_attention_2",
+          "query_use_cache": false,
+          "request_retry_limit": 3
+        },
+        "agent_loop": "Unmodified pinned LRAT _run; no final-answer patch.",
+        "sampling_note": "Paper settings: temperature 0.85, seed 2025; pinned API code defaults differ.",
+        "queries_sha256": "d0c1e69be1c10c0333715e74d6135e851577d23662af4e273349adc6df93a232",
+        "queries": [
+          [
+            "InfoSeek-Eval_0",
+            "What is a species of moth that was first described by a French lepidopterist who allied himself with Pierre André Latreille, is widespread in tropical Africa and Madagascar, and whose caterpillars feed on Crotalaria plants? Additionally, this moth has orange forewings with black markings and white around them, and orange hindwings with black spots on the edges."
+          ],
+          [
+            "InfoSeek-Eval_1",
+            "Who was a Romanian statesman whose brother was a prolific writer and politician that collaborated with Nicolae Bălcescu, and who served as Prime Minister of Romania five times?"
+          ],
+          [
+            "InfoSeek-Eval_2",
+            "What is a controversial topic in psychology whose arguments about environmental factors were supported by observations of a specific phenomenon related to IQ changes over time that was observed in studies using Raven's Progressive Matrices, and whose first empirical evidence came from tests of United States Army recruits in World War I?"
+          ],
+          [
+            "InfoSeek-Eval_3",
+            "What is a television station that is an owned-and-operated station of a network co-founded by Paul Crouch, was founded on August 16, 1982, and formerly operated from studios located within a Christian theme park that closed in 2020?"
+          ],
+          [
+            "InfoSeek-Eval_4",
+            "What is a species of bird that was described by Georges-Louis Leclerc, Comte de Buffon and illustrated by François-Nicolas Martinet in Buffon's work, is related to another lapwing species that shares some plumage characteristics, can live up to 20 years, and is covered by the AEWA agreement?"
+          ],
+          [
+            "InfoSeek-Eval_5",
+            "Who is a Japanese theatre scholar who had a three-decade career at a university whose medical center established a cancer center with help from Kansas masons, and who was awarded the Order of the Sacred Treasure in 2006?"
+          ],
+          [
+            "InfoSeek-Eval_6",
+            "What is the baseball team for which the first MLB player to enter the Meikyukai holds the most franchise records, and which has another player who holds the second most franchise records? Additionally, this team has an all-time winning percentage of .473 through July 16, 2022, and has two players who hold Major League Baseball records."
+          ],
+          [
+            "InfoSeek-Eval_7",
+            "What is a song that features vocals by an artist who released one of the best-selling singles of all time, and was itself released on 6 March 2000 as the second single from Chicane's second studio album?"
+          ],
+          [
+            "InfoSeek-Eval_8",
+            "Who is a sport official who competed in the 1912 Summer Olympics and finished 22nd in the javelin throw? This person received the Military Order of Max Joseph in 1921."
+          ],
+          [
+            "InfoSeek-Eval_9",
+            "What is a species of snout moth in the genus Epischnia that was described by a zoologist who worked with Ernst Hartert for 38 years on ornithological studies? Additionally, this moth is found in North Africa, including Algeria, and was described in 1915."
+          ],
+          [
+            "InfoSeek-Eval_10",
+            "What was the payroll system whose development was overseen by someone who co-created JUnit with Erich Gamma, that went live in 1997, initially paying around ten thousand people?"
+          ],
+          [
+            "InfoSeek-Eval_11",
+            "What is a species of moth that belongs to the family Depressariidae, has a wingspan of 20-22 mm, is found in French Guiana, and has forewings with a fuscous basal dot above the middle and 3-4 fuscous marks near the base forming an interrupted oblique line?"
+          ],
+          [
+            "InfoSeek-Eval_12",
+            "What is the name of the last film directed by Raoul Walsh, whose brother was a silent cinema actor whose first wife was an actress, that stars Troy Donahue, Suzanne Pleshette and Diane McBain, and is based on a 1960 novel by Paul Horgan?"
+          ],
+          [
+            "InfoSeek-Eval_13",
+            "What is a species of moth that feeds on plants from a family which includes a genus producing chili peppers and bell peppers? This species has a wingspan of 20-34 mm, with females being somewhat larger, and has been accidentally introduced to some European countries through imports of its host plants."
+          ],
+          [
+            "InfoSeek-Eval_14",
+            "What is an international trade practice that was officially approved by the Chinese Ministry of Commerce in 2019 and serves as a way to deepen implementations of a major Chinese development strategy that is a centerpiece of Xi Jinping's foreign policy? The first exports of this practice consisted of 300 used cars to four specific countries, and were made through Nansha Port and the China-Europe Railway Express."
+          ],
+          [
+            "InfoSeek-Eval_15",
+            "What is a British chocolate company that was acquired by a company founded by Franklin Clarence Mars (whose son created the Milky Way bar), operates a chocolate tasting club with about 100,000 members, and is the only UK chocolate company to own its own cocoa farm?"
+          ],
+          [
+            "InfoSeek-Eval_16",
+            "What is the name of a Greek football club where a player began his career, who was scouted by AEK Athens alongside another footballer? The club's colors are green and white and its name means 'green birds'."
+          ],
+          [
+            "InfoSeek-Eval_17",
+            "Who is a theoretical chemist who serves as Director of an institute where the Department of Solid State Quantum Electronics is spearheaded by a Nobel Prize-winning physicist? This person was elected Fellow of the Royal Society in 2015, was born in Tehran, and held an academic post at Queen's University Belfast before working in Cambridge and Stuttgart."
+          ],
+          [
+            "InfoSeek-Eval_18",
+            "Who is a justice with the Federal Court of Canada who was the first director of the Policy Centre for Victim Issues in the Department of Justice from 1999 to 2007 and who graduated with an LLB from a university that was first established by Joseph-Bruno Guigues as the College of Bytown in 1848?"
+          ],
+          [
+            "InfoSeek-Eval_19",
+            "What is the performance design element that was significantly influenced by someone who first adapted 'Madame Butterfly' for the stage, whose construction is frequently one of the most time-consuming tasks when preparing for a show, which can range from a single chair to an elaborately re-created street, and whose modern form requires the specialized skills of hundreds of artists and craftspeople for a single production?"
+          ]
+        ],
+        "retriever": {
+          "repo": "Qwen/Qwen3-Embedding-0.6B",
+          "revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+          "path": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/hf-cache/hub/models--Qwen--Qwen3-Embedding-0.6B/snapshots/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+          "config_sha256": "b5bf1f51fc45be473a54718cef92448d90a1be001bf9b9a44b8c7f10a19feaa9",
+          "weights_sha256": "0437e45c94563b09e13cb7a64478fc406947a93cb34a7e05870fc8dcd48e23fd",
+          "weights_bytes": 1191586416,
+          "weights_mtime_ns": 1791724427971622834
+        },
+        "index_metadata_sha256": "9a4e42f56e55500a42949babfc2c1e18c7f33504e3f1bf2835c13b4fe5f47405",
+        "corpus_sha256": "d2d2f111297cd7a6b6020d4388739eb7c7eef957d06f60b63b42d33cb3a615c2",
+        "source_hashes": {
+          "search_agent/webexplorer_utils/react_agent.py": "3dc494b8ed64546b61a744249700450baccac440e9903b82114bcdf4221a4256",
+          "search_agent/webexplorer_utils/tool_search.py": "faa182807757a4445dc5b4b10c10933e34855a3bd40af87c331fe8dea320149f",
+          "search_agent/agentcmp_client.py": "bb38efd36fdb18a2ce0d0b8111c354a32673b91e71b42bbcc46e26de359117be",
+          "searcher/searchers/faiss_searcher.py": "c140d55439b4ec4d0a5d5274400bee2ca5eb8842b0abece0586d4f60c270e80c",
+          "searcher/searchers/base.py": "694e00a8909efe56f48896c567a47c8913219adff1ad05d0fb49b41fa683af6c"
+        },
+        "sample_runner_sha256": "87af2b0fc19ea43d8970ad6634f72912d6f6f4a49d6ea641bd27ae3974c841ec",
+        "pilot_helper_sha256": "692c349aac72b81439d9945a86192e14194abb90731fb871af54921a91f025c4",
+        "server_model": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/models/AgentCPM-Explore",
+        "server_context_limit": 131072,
+        "agent_config_sha256": "4ca339ac76a475603caf526c2c1f21df1c419e9dfcfae5b512dcad6a34dbe4a1",
+        "agent_generation_config": {
+          "_from_model_config": true,
+          "eos_token_id": 151645,
+          "pad_token_id": 151643,
+          "transformers_version": "4.57.1"
+        },
+        "agent_weight_files": [
+          {
+            "file": "model-00001-of-00002.safetensors",
+            "bytes": 4967215360,
+            "mtime_ns": 1791807212413914333
+          },
+          {
+            "file": "model-00002-of-00002.safetensors",
+            "bytes": 3855679144,
+            "mtime_ns": 1791807217539952336
+          }
+        ],
+        "runtime_versions": {
+          "torch": "2.7.0+cu126",
+          "transformers": "4.53.2",
+          "faiss": "1.11.0",
+          "flash_attention": "2.8.3",
+          "datasets": "4.0.0",
+          "pyarrow": "21.0.0"
+        }
+      }
+    },
+    "lrat": {
+      "identity_sha256": "414c22ff46302a8bb014957ec87bdd7d610f1ac487df69a4a696a1da74ba6862",
+      "identity": {
+        "protocol": {
+          "temperature": 0.85,
+          "top_p": 0.95,
+          "presence_penalty": 1.1,
+          "seed": 2025,
+          "k": 10,
+          "snippet_max_tokens": 64,
+          "document_max_tokens": 512,
+          "max_main_loop_calls": 50,
+          "query_max_length": 8192,
+          "pooling": "eos",
+          "normalize": true,
+          "query_precision": "float16",
+          "query_attention": "flash_attention_2",
+          "query_use_cache": false,
+          "request_retry_limit": 3
+        },
+        "agent_loop": "Unmodified pinned LRAT _run; no final-answer patch.",
+        "sampling_note": "Paper settings: temperature 0.85, seed 2025; pinned API code defaults differ.",
+        "queries_sha256": "d0c1e69be1c10c0333715e74d6135e851577d23662af4e273349adc6df93a232",
+        "queries": [
+          [
+            "InfoSeek-Eval_0",
+            "What is a species of moth that was first described by a French lepidopterist who allied himself with Pierre André Latreille, is widespread in tropical Africa and Madagascar, and whose caterpillars feed on Crotalaria plants? Additionally, this moth has orange forewings with black markings and white around them, and orange hindwings with black spots on the edges."
+          ],
+          [
+            "InfoSeek-Eval_1",
+            "Who was a Romanian statesman whose brother was a prolific writer and politician that collaborated with Nicolae Bălcescu, and who served as Prime Minister of Romania five times?"
+          ],
+          [
+            "InfoSeek-Eval_2",
+            "What is a controversial topic in psychology whose arguments about environmental factors were supported by observations of a specific phenomenon related to IQ changes over time that was observed in studies using Raven's Progressive Matrices, and whose first empirical evidence came from tests of United States Army recruits in World War I?"
+          ],
+          [
+            "InfoSeek-Eval_3",
+            "What is a television station that is an owned-and-operated station of a network co-founded by Paul Crouch, was founded on August 16, 1982, and formerly operated from studios located within a Christian theme park that closed in 2020?"
+          ],
+          [
+            "InfoSeek-Eval_4",
+            "What is a species of bird that was described by Georges-Louis Leclerc, Comte de Buffon and illustrated by François-Nicolas Martinet in Buffon's work, is related to another lapwing species that shares some plumage characteristics, can live up to 20 years, and is covered by the AEWA agreement?"
+          ],
+          [
+            "InfoSeek-Eval_5",
+            "Who is a Japanese theatre scholar who had a three-decade career at a university whose medical center established a cancer center with help from Kansas masons, and who was awarded the Order of the Sacred Treasure in 2006?"
+          ],
+          [
+            "InfoSeek-Eval_6",
+            "What is the baseball team for which the first MLB player to enter the Meikyukai holds the most franchise records, and which has another player who holds the second most franchise records? Additionally, this team has an all-time winning percentage of .473 through July 16, 2022, and has two players who hold Major League Baseball records."
+          ],
+          [
+            "InfoSeek-Eval_7",
+            "What is a song that features vocals by an artist who released one of the best-selling singles of all time, and was itself released on 6 March 2000 as the second single from Chicane's second studio album?"
+          ],
+          [
+            "InfoSeek-Eval_8",
+            "Who is a sport official who competed in the 1912 Summer Olympics and finished 22nd in the javelin throw? This person received the Military Order of Max Joseph in 1921."
+          ],
+          [
+            "InfoSeek-Eval_9",
+            "What is a species of snout moth in the genus Epischnia that was described by a zoologist who worked with Ernst Hartert for 38 years on ornithological studies? Additionally, this moth is found in North Africa, including Algeria, and was described in 1915."
+          ],
+          [
+            "InfoSeek-Eval_10",
+            "What was the payroll system whose development was overseen by someone who co-created JUnit with Erich Gamma, that went live in 1997, initially paying around ten thousand people?"
+          ],
+          [
+            "InfoSeek-Eval_11",
+            "What is a species of moth that belongs to the family Depressariidae, has a wingspan of 20-22 mm, is found in French Guiana, and has forewings with a fuscous basal dot above the middle and 3-4 fuscous marks near the base forming an interrupted oblique line?"
+          ],
+          [
+            "InfoSeek-Eval_12",
+            "What is the name of the last film directed by Raoul Walsh, whose brother was a silent cinema actor whose first wife was an actress, that stars Troy Donahue, Suzanne Pleshette and Diane McBain, and is based on a 1960 novel by Paul Horgan?"
+          ],
+          [
+            "InfoSeek-Eval_13",
+            "What is a species of moth that feeds on plants from a family which includes a genus producing chili peppers and bell peppers? This species has a wingspan of 20-34 mm, with females being somewhat larger, and has been accidentally introduced to some European countries through imports of its host plants."
+          ],
+          [
+            "InfoSeek-Eval_14",
+            "What is an international trade practice that was officially approved by the Chinese Ministry of Commerce in 2019 and serves as a way to deepen implementations of a major Chinese development strategy that is a centerpiece of Xi Jinping's foreign policy? The first exports of this practice consisted of 300 used cars to four specific countries, and were made through Nansha Port and the China-Europe Railway Express."
+          ],
+          [
+            "InfoSeek-Eval_15",
+            "What is a British chocolate company that was acquired by a company founded by Franklin Clarence Mars (whose son created the Milky Way bar), operates a chocolate tasting club with about 100,000 members, and is the only UK chocolate company to own its own cocoa farm?"
+          ],
+          [
+            "InfoSeek-Eval_16",
+            "What is the name of a Greek football club where a player began his career, who was scouted by AEK Athens alongside another footballer? The club's colors are green and white and its name means 'green birds'."
+          ],
+          [
+            "InfoSeek-Eval_17",
+            "Who is a theoretical chemist who serves as Director of an institute where the Department of Solid State Quantum Electronics is spearheaded by a Nobel Prize-winning physicist? This person was elected Fellow of the Royal Society in 2015, was born in Tehran, and held an academic post at Queen's University Belfast before working in Cambridge and Stuttgart."
+          ],
+          [
+            "InfoSeek-Eval_18",
+            "Who is a justice with the Federal Court of Canada who was the first director of the Policy Centre for Victim Issues in the Department of Justice from 1999 to 2007 and who graduated with an LLB from a university that was first established by Joseph-Bruno Guigues as the College of Bytown in 1848?"
+          ],
+          [
+            "InfoSeek-Eval_19",
+            "What is the performance design element that was significantly influenced by someone who first adapted 'Madame Butterfly' for the stage, whose construction is frequently one of the most time-consuming tasks when preparing for a show, which can range from a single chair to an elaborately re-created street, and whose modern form requires the specialized skills of hundreds of artists and craftspeople for a single production?"
+          ]
+        ],
+        "retriever": {
+          "repo": "Yuqi-Zhou/LRAT-Qwen3-Embedding-0.6B",
+          "revision": "81c339a83d4407454e59c8069b0720493e3451a6",
+          "path": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/models/LRAT-Qwen3-Embedding-0.6B",
+          "config_sha256": "b8721c5ce4b00c01e91590a4c4216ec2abe8008cc0fd57e4ca541177580af6b6",
+          "weights_sha256": "26a285f49ea95bdb800ee2ec1bb7cd12567ed0e63f6d54f6b0ad08a2222f6234",
+          "weights_bytes": 1191586416,
+          "weights_mtime_ns": 1791820327153140104
+        },
+        "index_metadata_sha256": "85f62d9a708138e69a037c6fab8c4d9d2bee324c39fb7949f0d88821ea786543",
+        "corpus_sha256": "d2d2f111297cd7a6b6020d4388739eb7c7eef957d06f60b63b42d33cb3a615c2",
+        "source_hashes": {
+          "search_agent/webexplorer_utils/react_agent.py": "3dc494b8ed64546b61a744249700450baccac440e9903b82114bcdf4221a4256",
+          "search_agent/webexplorer_utils/tool_search.py": "faa182807757a4445dc5b4b10c10933e34855a3bd40af87c331fe8dea320149f",
+          "search_agent/agentcmp_client.py": "bb38efd36fdb18a2ce0d0b8111c354a32673b91e71b42bbcc46e26de359117be",
+          "searcher/searchers/faiss_searcher.py": "c140d55439b4ec4d0a5d5274400bee2ca5eb8842b0abece0586d4f60c270e80c",
+          "searcher/searchers/base.py": "694e00a8909efe56f48896c567a47c8913219adff1ad05d0fb49b41fa683af6c"
+        },
+        "sample_runner_sha256": "87af2b0fc19ea43d8970ad6634f72912d6f6f4a49d6ea641bd27ae3974c841ec",
+        "pilot_helper_sha256": "692c349aac72b81439d9945a86192e14194abb90731fb871af54921a91f025c4",
+        "server_model": "/scratch.hpc/mehdi.kabbage/lrat-reproduction/models/AgentCPM-Explore",
+        "server_context_limit": 131072,
+        "agent_config_sha256": "4ca339ac76a475603caf526c2c1f21df1c419e9dfcfae5b512dcad6a34dbe4a1",
+        "agent_generation_config": {
+          "_from_model_config": true,
+          "eos_token_id": 151645,
+          "pad_token_id": 151643,
+          "transformers_version": "4.57.1"
+        },
+        "agent_weight_files": [
+          {
+            "file": "model-00001-of-00002.safetensors",
+            "bytes": 4967215360,
+            "mtime_ns": 1791807212413914333
+          },
+          {
+            "file": "model-00002-of-00002.safetensors",
+            "bytes": 3855679144,
+            "mtime_ns": 1791807217539952336
+          }
+        ],
+        "runtime_versions": {
+          "torch": "2.7.0+cu126",
+          "transformers": "4.53.2",
+          "faiss": "1.11.0",
+          "flash_attention": "2.8.3",
+          "datasets": "4.0.0",
+          "pyarrow": "21.0.0"
+        }
+      }
+    }
+  },
+  "judge": {
+    "model": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "revision": "144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+    "weights": [
+      {
+        "file": "model-00001-of-00016.safetensors",
+        "bytes": 3998893112
+      },
+      {
+        "file": "model-00002-of-00016.safetensors",
+        "bytes": 3999974192
+      },
+      {
+        "file": "model-00003-of-00016.safetensors",
+        "bytes": 3997360832
+      },
+      {
+        "file": "model-00004-of-00016.safetensors",
+        "bytes": 3999975056
+      },
+      {
+        "file": "model-00005-of-00016.safetensors",
+        "bytes": 3999975400
+      },
+      {
+        "file": "model-00006-of-00016.safetensors",
+        "bytes": 3999975400
+      },
+      {
+        "file": "model-00007-of-00016.safetensors",
+        "bytes": 3999975472
+      },
+      {
+        "file": "model-00008-of-00016.safetensors",
+        "bytes": 3997362064
+      },
+      {
+        "file": "model-00009-of-00016.safetensors",
+        "bytes": 3999975408
+      },
+      {
+        "file": "model-00010-of-00016.safetensors",
+        "bytes": 3999975400
+      },
+      {
+        "file": "model-00011-of-00016.safetensors",
+        "bytes": 3999975408
+      },
+      {
+        "file": "model-00012-of-00016.safetensors",
+        "bytes": 3987924896
+      },
+      {
+        "file": "model-00013-of-00016.safetensors",
+        "bytes": 3999975088
+      },
+      {
+        "file": "model-00014-of-00016.safetensors",
+        "bytes": 3999975400
+      },
+      {
+        "file": "model-00015-of-00016.safetensors",
+        "bytes": 3999975400
+      },
+      {
+        "file": "model-00016-of-00016.safetensors",
+        "bytes": 1085307128
+      }
+    ],
+    "config_sha256": "a1ee086a68d0cbfc87316da00ba4b8507bd1292978108e2496201a30a450f438",
+    "weight_index_sha256": "8dde190b862c7c80ec7403c6495de00c60bbaf246ed479cee4506284989c584c",
+    "purpose": "Judge model named in LRAT; no inference or grading performed by this job."
+  },
+  "evaluator_sha256": "df4b1d0cd7f6e20bd492ee4c224d46fa6e079e3f51fbeab0692cffb122e71942",
+  "execution_workaround": {
+    "disable_custom_all_reduce": true,
+    "max_model_len": 65536,
+    "environment": {
+      "VLLM_HOST_IP": "127.0.0.1",
+      "GLOO_SOCKET_IFNAME": "lo",
+      "NCCL_SOCKET_IFNAME": "lo",
+      "NCCL_IB_DISABLE": "1",
+      "NCCL_CUMEM_ENABLE": "0"
+    },
+    "communication_test": {
+      "passed": true,
+      "ranks": 2,
+      "tests": [
+        "Gloo",
+        "PyTorch NCCL",
+        "vLLM PyNcclCommunicator"
+      ],
+      "environment": {
+        "VLLM_HOST_IP": "127.0.0.1",
+        "GLOO_SOCKET_IFNAME": "lo",
+        "NCCL_SOCKET_IFNAME": "lo",
+        "NCCL_IB_DISABLE": "1",
+        "NCCL_CUMEM_ENABLE": "0"
+      }
+    },
+    "command_timeout_seconds": 2700,
+    "reason": "Job 59331 timed out during two-GPU distributed initialization."
+  },
+  "evaluation_settings": {
+    "temperature": 0.0,
+    "max_tokens": 4096,
+    "official_max_tokens": 512,
+    "seed": 2026,
+    "tensor_parallel_size": 2,
+    "gpu_memory_utilization": 0.9,
+    "batch_size": 32,
+    "prompt": "Original JUDGE_TEMPLATE; raw prompt, no added chat template."
+  },
+  "runtime": {
+    "vllm": "0.9.0.1",
+    "torch": "2.7.0+cu126",
+    "gpus": [
+      "NVIDIA L40S",
+      "NVIDIA L40S"
+    ]
+  },
+  "executed_evaluator_sha256": "1d32f6e61b0cf30f4df58962498ca348ff1a52681baacab31e7a9efdc9ae7ddf",
+  "ground_truth_sha256": "6949cbe5e52088ba681ff5b2c236cb80785d1b769500655ffa21b7452ef62a02"
+}

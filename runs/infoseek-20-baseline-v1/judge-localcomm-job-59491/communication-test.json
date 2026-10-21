@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "ranks": 2,
+  "tests": [
+    "Gloo",
+    "PyTorch NCCL",
+    "vLLM PyNcclCommunicator"
+  ],
+  "environment": {
+    "VLLM_HOST_IP": "127.0.0.1",
+    "GLOO_SOCKET_IFNAME": "lo",
+    "NCCL_SOCKET_IFNAME": "lo",
+    "NCCL_IB_DISABLE": "1",
+    "NCCL_CUMEM_ENABLE": "0"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "questions_per_retriever": 20,
+  "conditions": {
+    "qwen": {
+      "metrics": {
+        "Success Rate": 0.5,
+        "Avg Steps": 44.35
+      },
+      "evaluated": 20,
+      "correct": 10,
+      "unparsed_judge_verdicts": []
+    },
+    "lrat": {
+      "metrics": {
+        "Success Rate": 0.75,
+        "Avg Steps": 39.7
+      },
+      "evaluated": 20,
+      "correct": 15,
+      "unparsed_judge_verdicts": [
+        "InfoSeek-Eval_13"
+      ]
+    }
+  },
+  "protocol": "Original judging prompt/parser; output budget 4096 (official: 512); recorded same-node communication workaround.",
+  "execution_workaround": {
+    "disable_custom_all_reduce": true,
+    "max_model_len": 65536,
+    "environment": {
+      "VLLM_HOST_IP": "127.0.0.1",
+      "GLOO_SOCKET_IFNAME": "lo",
+      "NCCL_SOCKET_IFNAME": "lo",
+      "NCCL_IB_DISABLE": "1",
+      "NCCL_CUMEM_ENABLE": "0"
+    },
+    "communication_test": {
+      "passed": true,
+      "ranks": 2,
+      "tests": [
+        "Gloo",
+        "PyTorch NCCL",
+        "vLLM PyNcclCommunicator"
+      ],
+      "environment": {
+        "VLLM_HOST_IP": "127.0.0.1",
+        "GLOO_SOCKET_IFNAME": "lo",
+        "NCCL_SOCKET_IFNAME": "lo",
+        "NCCL_IB_DISABLE": "1",
+        "NCCL_CUMEM_ENABLE": "0"
+      }
+    },
+    "command_timeout_seconds": 2700,
+    "reason": "Job 59331 timed out during two-GPU distributed initialization."
+  },
+  "usable_for_comparison": false
+}
