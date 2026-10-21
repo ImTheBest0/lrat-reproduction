@@ -1,0 +1,19 @@
+{
+  "review_date": "2026-10-21",
+  "original_export_files_verified_unchanged": 57,
+  "code_cells_executed": 14,
+  "notebook_errors": 0,
+  "audit_checks_passed": 285,
+  "execution_method": "In-process IPython kernel; all cells executed in order in a fresh process.",
+  "inference_performed": false,
+  "packages": {
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "ipykernel": "7.4.0",
+    "IPython": "9.17.1",
+    "nbformat": "5.11.1",
+    "Jinja2": "3.1.6"
+  },
+  "notebook_sections_retained": "1\u20139",
+  "retained_cells_and_outputs_unchanged": true
+}

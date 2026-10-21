@@ -1,0 +1,371 @@
+{
+  "model": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+  "revision": "144afc2f379b542fdd4e85a1fcd5e1f79112d95d",
+  "tokenizer_json_sha256": "19564a48c4f71a2a1b937cce34c737a1e662b171c5f5d7edf641a15cd896f07d",
+  "tokenizer_config_sha256": "9c9cfea24361f234a5ef67d3f49f69733163f77c0d1fcced5b5aa72913b8ea22",
+  "tokenizers_version": "0.23.3",
+  "method": "Exact raw JUDGE_TEMPLATE prompts; pinned Qwen tokenizer.json; add_special_tokens=True (same IDs count as False); no chat template.",
+  "max_model_len": 65536,
+  "rows": [
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_0",
+      "prompt_sha256": "015c66c06d45051eafd55a2414fa6f861272dba59e6b6f8027ee8d07e8922d4c",
+      "prompt_tokens": 2277,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 6373,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_1",
+      "prompt_sha256": "6e2cd7e8eb0479ceda303686a35924305d9a157e729a9c41fff76f8d72aef2b1",
+      "prompt_tokens": 4711,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 8807,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_2",
+      "prompt_sha256": "daffbb6cf9225265cd69b8adf3d80c0076b07d5c70f8dc3d877d05f34fba9144",
+      "prompt_tokens": 1847,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5943,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_3",
+      "prompt_sha256": "4a6859d291945785864ccda07ef76df1295011f38353b46cb33137ec3e5bc64a",
+      "prompt_tokens": 770,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4866,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_4",
+      "prompt_sha256": "de24c8b5ccfdf9962d04aeca495a0b7495292879f52786635875798fb80ebc55",
+      "prompt_tokens": 5446,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 9542,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_5",
+      "prompt_sha256": "1d4f065102647edcac5b00a6b461b6f978784b5166296e71be7a2b299282421d",
+      "prompt_tokens": 760,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4856,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_6",
+      "prompt_sha256": "2d8279cd90da51d6679172ef7d1e1a782335e4d3e5006778be994c1324c00ed9",
+      "prompt_tokens": 712,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4808,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_7",
+      "prompt_sha256": "3af4214f021db19489745d27b068a77b971af7c3c2d41805babaa6fb0233d5e2",
+      "prompt_tokens": 1087,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5183,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_8",
+      "prompt_sha256": "bbab2cdddec3105b334732658087d6421b8750080edcc55e305b14f3d0439183",
+      "prompt_tokens": 891,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4987,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_9",
+      "prompt_sha256": "cb85f6c14c5ee4b88c8a912e599b71815c92a8eab0be2b30b1eae61ac85cd56e",
+      "prompt_tokens": 736,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4832,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_10",
+      "prompt_sha256": "87393c7eec3b9b684c055044207f25e2459eeb751e7bca29762dee7ba3646867",
+      "prompt_tokens": 506,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4602,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_11",
+      "prompt_sha256": "8c209b51ea5a4b5b8bffb4bc4537a9bb8f348c7b41b9d0b49b4aa1278d1774e3",
+      "prompt_tokens": 860,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4956,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_12",
+      "prompt_sha256": "a52047a327a0305e5077e09964dcb573fa50bea1ebf85460169b33ba8f5884f3",
+      "prompt_tokens": 9329,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 13425,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_13",
+      "prompt_sha256": "a7d91518de20707ea8250840f2a239d2a7fb23a1411e92cc9e0d190fe9c4b3cb",
+      "prompt_tokens": 2431,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 6527,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_14",
+      "prompt_sha256": "ed86ddc022f5270c0a555ccd4eee380391324815c197f57be34fd7ccca07b13a",
+      "prompt_tokens": 2478,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 6574,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_15",
+      "prompt_sha256": "7f2563fbd654ee85c18bcd19a0aa3b8a6b4f57069c8e8ee57d8b5981825f6105",
+      "prompt_tokens": 920,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5016,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_16",
+      "prompt_sha256": "49e5ca9d4f7d920b724766a6b06b5dc09d82c6fad7654e17c17fd22c897ab375",
+      "prompt_tokens": 10362,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 14458,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_17",
+      "prompt_sha256": "bd4d7b73eaa5fc36cbbf7ce2fd67785e298b9ebced09a48479635a7357c3f5da",
+      "prompt_tokens": 663,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4759,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_18",
+      "prompt_sha256": "a15f1276d32522324259105bd50175aea92285f33bfae8a334f63eea32bbfab3",
+      "prompt_tokens": 891,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4987,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "qwen",
+      "query_id": "InfoSeek-Eval_19",
+      "prompt_sha256": "e72c39348e946b9632bb968db8e7fd14b6c678a85434ed90fb3dcf8112c77529",
+      "prompt_tokens": 1259,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5355,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_0",
+      "prompt_sha256": "efeb8ed98d721bf2f98d39310277512ab487c214ab6470fe775807e61bb18bb7",
+      "prompt_tokens": 945,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5041,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_1",
+      "prompt_sha256": "25f2dd4477e2deb02a2c080ab4f6d7963a76d7f43f270427b9614039691f51cf",
+      "prompt_tokens": 1226,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5322,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_2",
+      "prompt_sha256": "6e761a08be03c4a36006252c92d222e924b84e820b88afabc6984083a157a524",
+      "prompt_tokens": 1331,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 5427,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_3",
+      "prompt_sha256": "e86ad9cc4ab3ea3c881c2425b9252414c0efc326e4ef1251eea03cc50cedb659",
+      "prompt_tokens": 523,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4619,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_4",
+      "prompt_sha256": "fb9350a955ef29da4d30e56ebaac3580b45d1ea01e8340c06aaf778b029532f4",
+      "prompt_tokens": 10383,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 14479,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_5",
+      "prompt_sha256": "49d9dc14be2d6dadbe2f4039345a07ebc349f749e62728adfb3ce044680aad8a",
+      "prompt_tokens": 754,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4850,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_6",
+      "prompt_sha256": "95bfdf398aefa1b919857e833738badb3302002a52b6221edcafb42350f67b7a",
+      "prompt_tokens": 544,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4640,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_7",
+      "prompt_sha256": "7a391c810971781b83a48a4a99a43e0455e3c8e5f449eb791c4377bfc58bda5e",
+      "prompt_tokens": 623,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4719,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_8",
+      "prompt_sha256": "491e8ae4d0a08ec33b8b22e13d826843672a593072049efdf4232d4b4dca57da",
+      "prompt_tokens": 860,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4956,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_9",
+      "prompt_sha256": "7a8f36108fdf79ee88539a8dbfedeb7fb3e248a6341ef72acabb4aeef241e969",
+      "prompt_tokens": 648,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4744,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_10",
+      "prompt_sha256": "3a74c77fbb310733ac5d5acbbc751e513717247278e4b00683bac079d7a62551",
+      "prompt_tokens": 520,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4616,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_11",
+      "prompt_sha256": "fb8fba630f0d757e84c8e4946a14bb9b67530aafa0c1f3ed9a8129d9f9af8456",
+      "prompt_tokens": 678,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4774,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_12",
+      "prompt_sha256": "dbd2f47fd49f6044f0ce6675c0027999e47c9978f3848a3b542d2397ec237d56",
+      "prompt_tokens": 666,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4762,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_13",
+      "prompt_sha256": "627caa9eb79b02d886c7fd54319f8ca3b742b12838389eeaa740414685e94faa",
+      "prompt_tokens": 5216,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 9312,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_14",
+      "prompt_sha256": "abfc8fb9d00c4d87bd1f936ca6124dabefee49ecbb47dda1a603463770b06aea",
+      "prompt_tokens": 2819,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 6915,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_15",
+      "prompt_sha256": "5d758ad386cf4a467ca0a0a9dcd44d36d29d3ca559b7327f4d0a26918ad4f616",
+      "prompt_tokens": 868,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4964,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_16",
+      "prompt_sha256": "65546635ca85e1c93ff07badb8a052ed19ac41f1f3040b32d3b5932fe1f81bde",
+      "prompt_tokens": 634,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4730,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_17",
+      "prompt_sha256": "e5c163850c20ba96256045d16d7794e80e00e8fc87c448330cbc39eecf58c6bf",
+      "prompt_tokens": 768,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4864,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_18",
+      "prompt_sha256": "463bf84231a8bb3fb84c9eaa5c0238107c30f062a57dbdc04414e8cb94f7cec1",
+      "prompt_tokens": 899,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4995,
+      "within_context_limit": true
+    },
+    {
+      "retriever": "lrat",
+      "query_id": "InfoSeek-Eval_19",
+      "prompt_sha256": "febb66bb20b2305135cbfb0d81d9d1407e904a4f6056a3038283e14b6458ce38",
+      "prompt_tokens": 415,
+      "reserved_output_tokens": 4096,
+      "combined_tokens": 4511,
+      "within_context_limit": true
+    }
+  ]
+}
